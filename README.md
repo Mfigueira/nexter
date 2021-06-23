@@ -2,10 +2,10 @@
 
 ## What is this?
 
-This project is a booking Frontend App made with CSS Flexbox and SASS.
+This project is a modern landing page made with CSS Grid & Flexbox.
 
 Built based on the Advanced CSS course by Jonas Schmedtmann.
 
-## Where can I see it?
+## Can I see it?
 
-Right [here](https://mfigueira.github.io/trillo/)!
+Yes! Follow this [link](https://mfigueira.github.io/nexter/)!
